@@ -5,7 +5,7 @@
 
 > **预览 ➡️ [https://wugenqiang.github.io/resume/](https://wugenqiang.github.io/resume/)**
 
-[![吴跟强的个人简历](./resume.png "吴跟强的个人简历")](https://wugenqiang.github.io/resume/ "吴跟强的个人简历")
+[![吴跟强的个人简历](./image/resume.png "吴跟强的个人简历")](https://wugenqiang.github.io/resume/ "吴跟强的个人简历")
 
 **一直在努力,从未放弃**
 > 不浮躁，不偏激，不守旧，爱编程，爱后端，爱新技术，爱运动，爱旅行，执行力和学习能力都棒棒哒！
